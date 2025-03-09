@@ -1,0 +1,5 @@
+opencv-python==4.11.0.86
+numpy==2.2.3
+pywin32==308
+mss==10.0.0
+logging==0.4.9.6
