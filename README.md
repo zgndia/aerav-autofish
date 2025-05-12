@@ -3,3 +3,7 @@ Install the executable from [here](https://github.com/zgndia/aerav-autofish/rele
 Disable your antivirus softwares if doesn't work.
 
 > This project is not open-source, source files are just packages required for the program to run.
+
+
+# How it works
+-- add here
